@@ -357,6 +357,8 @@ npm run runIosDevice
 npm run runAndroid
 ```
 
+# Test for Github reviews
+
 # Thanks
 - Eddy Verbruggen for his amazing job on: [https://github.com/Telerik-Verified-Plugins/NativePageTransitions](https://github.com/Telerik-Verified-Plugins/NativePageTransitions)
 - GAJOTRES for his great post: [http://www.gajotres.net/handling-native-view-animations-with-ionic-framework/](http://www.gajotres.net/handling-native-view-animations-with-ionic-framework/)
